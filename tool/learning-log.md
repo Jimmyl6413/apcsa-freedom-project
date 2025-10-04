@@ -13,7 +13,7 @@
 * Began searching on google and youtube
 
 ### 10/5/25:
-* I watched (https://www.youtube.com/watch?v=XtQMytORBmM)[One of the best Unity Tutorial videos] to start off with after I've completely finished downloading and setting up Unity.
+* I watched [One of the best Unity tutorial videos on youtube](https://www.youtube.com/watch?v=XtQMytORBmM) to start off with after I've completely finished downloading and setting up Unity.
 
 
 
