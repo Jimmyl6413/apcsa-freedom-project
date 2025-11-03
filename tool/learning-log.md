@@ -15,6 +15,13 @@
 ### 10/5/25:
 * I watched [One of the best Unity tutorial videos on youtube](https://www.youtube.com/watch?v=XtQMytORBmM) to start off with after I've completely finished downloading and setting up Unity.
 
+### 10/29/25
+* Downloaded visual studio (2022) from unity that will be needed for my 3D bowling game.
+
+### 11/1/25
+* Continued watching the video from 10/5 to recap what the different buttons do in the unity project page.
+* Started clicking around.
+* Question: How do I start adding visuals and create a map for my game? How will I control the camera based on acceleration etc?
 
 
 
