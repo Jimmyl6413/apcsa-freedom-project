@@ -29,11 +29,11 @@
 ![Unity](image.png)
 * Setting up different project folders for tinkering & main.
 ![Sectors](image-1.png)
-* Things to note
- * Remeber to press save after every edit before exiting
+* Things to note:
+ * Remember to press save after every edit before exiting
  * There's nothing free in the assets store
  * Very laggy with multiple tabs open
-* Next Steps/Plans
+* Next Steps/Plans:
  * Learning how to import or utilize sprints in Unity
  * Potentially import different sprits and test with the physics mechanisms
  * Start building/finding assets by the end of december.
