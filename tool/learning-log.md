@@ -24,6 +24,22 @@
 * Question: How do I start adding visuals and create a map for my game? How will I control the camera based on acceleration etc?
 
 
+### 11/16/25
+* Exploring the assets store and the different concepts of the unity game engine (Rotation, cameras, shape, etc.).
+![Unity](image.png)
+* Setting up different project folders for tinkering & main.
+![Sectors](image-1.png)
+* Things to note
+ * Remeber to press save after every edit before exiting
+ * There's nothing free in the assets store
+ * Very laggy with multiple tabs open
+* Next Steps/Plans
+ * Learning how to import or utilize sprints in Unity
+ * Potentially import different sprits and test with the physics mechanisms
+ * Start building/finding assets by the end of december.
+
+
+
 
 <!--
 * Links you used today (websites, videos, etc)
