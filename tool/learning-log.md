@@ -45,7 +45,11 @@
 * Projects: Import Sprites, Fonts, Music, etc.
 * Hierarchy: Everything that's in the scene (Big folder that hlds everything inside). Sets the scene.
 * Inspector: Able to move and position the objects in the scene.
-* Scene: Shows whats going on.
+* Scene: Shows whats going on. In the Scene we are able to hit play to run any changes we've mad in the hierarchy, inspector, or projects.
+
+![alt text](image-3.png)
+* Additionally, to add a custom component to our scene we can use the add component whcih we will have to code ourselves. Using the inspector we can select the sprite we want and add physics and collision to the sprite.
+
 
 
 
