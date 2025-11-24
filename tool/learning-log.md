@@ -38,6 +38,14 @@
  * Potentially import different sprits and test with the physics mechanisms
  * Start building/finding assets by the end of december.
 
+### 11/23/25
+###### The different components of Unity
+![Components](image-2.png)
+
+* Projects: Import Sprites, Fonts, Music, etc.
+* Hierarchy: Everything that's in the scene (Big folder that hlds everything inside). Sets the scene.
+* Inspector: Able to move and position the objects in the scene.
+* Scene: Shows whats going on.
 
 
 
