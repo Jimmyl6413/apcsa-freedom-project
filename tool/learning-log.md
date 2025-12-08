@@ -50,7 +50,11 @@
 ![alt text](image-3.png)
 * Additionally, to add a custom component to our scene we can use the add component whcih we will have to code ourselves. Using the inspector we can select the sprite we want and add physics and collision to the sprite.
 
-
+### 12/7/25
+![alt text](image-4.png)
+* In Unity if we want to create our own program we would need to navigate to the inspector and go down to click **new script**. However, code would need to be written in C# language as new unity projects no longer support javascript in its systems.
+* The script is unable to access other components of the game object as it would have to creat lines of communication like a network.
+* Both C# and Java have similarities it's just the code is written slightly different.
 
 
 <!--
