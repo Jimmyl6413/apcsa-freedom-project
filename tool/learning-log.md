@@ -56,6 +56,16 @@
 * The script is unable to access other components of the game object as it would have to creat lines of communication like a network.
 * Both C# and Java have similarities it's just the code is written slightly different.
 
+12/14/25
+
+![alt text](image-5.png)
+* Playing around with the different components of Unity.
+
+Visual Studio
+![alt text](image-6.png)
+* Similar to IDE linking to my GitHub account
+
+* In my last learning log I learned that in Unity they've adapted to C# for most of their projects so I went on[Free Code Camp](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) and found free tutorials to learn the codes being used.
 
 <!--
 * Links you used today (websites, videos, etc)
