@@ -65,7 +65,7 @@ Visual Studio
 ![alt text](image-6.png)
 * Similar to IDE linking to my GitHub account
 
-* In my last learning log I learned that in Unity they've adapted to C# for most of their projects so I went on [Free Code Camp](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) and found free tutorials to learn the codes being used.
+* In my last learning log I learned that in Unity they've adapted to C# for most of their projects so I went on [Free Code Camp](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) and found free tutorials to learn C#!
 
 <!--
 * Links you used today (websites, videos, etc)
