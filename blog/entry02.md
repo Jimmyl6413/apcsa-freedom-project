@@ -2,6 +2,8 @@
 ##### 12/15/2025
 
 ## Content
+Previously I watched the best youtube video guide about Unity and I began to tinker around with it. In the instector section is where we can move the objects in the scene and add different components like physics and collision. Additionally in the "Add Components" section I learned that we can add our own scripts which is code that we can code ourselves. This is extremely useful because I will be able to code exactly what I want my scene to do.
+![alt text](image-2.png)
 
 ## Engineering Design Process (EDP)
 I am now in the second stage of the engineering design proces. I will be doing some deep dives into how to work my tool. Next I will be moving onto creating some prototypes to further practice on using my tool.
