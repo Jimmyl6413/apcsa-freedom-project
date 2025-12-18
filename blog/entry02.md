@@ -4,6 +4,7 @@
 ## Content
 Previously I watched the [best youtube video guide](https://www.youtube.com/watch?v=XtQMytORBmM) about Unity and I began to tinker around with it. In the instector section is where we can move the objects in the scene and add different components like physics and collision.
 ![alt text](image-2.png)
+######
 Additionally in the "Add Components" section I learned that we can add our own scripts which is code that we can code ourselves. This is extremely useful because I will be able to code exactly what I want my scene to do.
 ![alt text](image-3.png)
 However, the dounside is that Unity no longer supports java coding in their script as they've transferred to C# language coding. But thankfully I found lesson on [Free Code Camp](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) which I've previously used to learn java and other coding languages which will help me learn C#.
