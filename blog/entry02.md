@@ -9,7 +9,6 @@ Additionally in the "Add Components" section I learned that we can add our own s
 ![alt text](image-3.png)
 However, the dounside is that Unity no longer supports java coding in their script as they've transferred to C# language coding. But thankfully I found lesson on [Free Code Camp](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) which I've previously used to learn java and other coding languages which will help me learn C#.
 
-
 ## Engineering Design Process (EDP)
 I am now in the second stage of the engineering design proces. I will be doing some deep dives into how to work my tool. Next I will be moving onto creating some prototypes to further practice on using my tool.
 

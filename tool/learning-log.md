@@ -67,6 +67,8 @@ Visual Studio
 
 * In my last learning log I learned that in Unity they've adapted to C# for most of their projects so I went on [Free Code Camp](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) and found free tutorials to learn C#!
 
+
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
