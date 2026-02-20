@@ -1,7 +1,7 @@
 # Plan
 
-## Tool: 
-## Product: 
+## Tool: Unity
+## Product: 2D/3D Bowling
 
 ---
 
@@ -9,17 +9,19 @@
 
 #### MVP
 
-- [ ] Task (deadline: X)
-  - [ ] Subtask (deadline: X)
+- [ ] Import sprites into Unity (Map, Bowling ball, Character, bowling pins, etc.) (deadline: 3/1/26)
+- [ ] Begin coding C# code to start animating everything (deadline: 3/15/26)
+  - [ ] Add physics, statistics, collisions, etc. (deadline: 3/1/26)
+  - [ ] Finish touches: Visuals, bars, etc. (deadline: 4/10/26)
+
 
 #### Beyond MVP
 
-- [ ] Task
-  - [ ] Subtask
+- [ ] Add background music as the players play.
+  - [ ] Allow the user to pick or create their own characters.
 
 
 <!-- EXAMPLE
-
 ## Tool: APIs
 ## Product: Green Glass Door riddle app
 
@@ -49,7 +51,7 @@
 
 <!-- DO NOT USE THIS YET
 
-#### Peer Feedback 
+#### Peer Feedback
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
