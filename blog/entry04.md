@@ -4,9 +4,9 @@
 ## Context
 Upon finishing my planning for my prototype I am now starting to make and code the game.
 ![SketchFab](image-7.png)
-Using SketchFab and Object resources in Unity I was able to gather all the sprites I needed for this project. Sprites like bowling balls, pins, and lanes can all be made by using unity object resources while background and other cosmetics would have to be accessed through SketchFab
+Using SketchFab and Object resources in Unity I was able to gather all the sprites I needed for this project. Sprites like bowling balls, pins, and lanes can all be made by using unity object resources while background and other cosmetics would have to be accessed through SketchFab.
 ![Collision](image-9.png)
-I've began coding C# code using visual studios which is connect to Unity. 
+I've began coding C# code using visual studios which is connect to Unity.  
 ## Engineering Design Process (EDP)
 I am now on stage 5 of the Engineering Design Process where I will begin to create and finalize a prototype of my 3D bowling game project. Then we will start to work on the Beyond MVP of the prototype where I will be adding a full background/map and game audio.
 
