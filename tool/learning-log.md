@@ -67,11 +67,16 @@ Visual Studio
 
 * In my last learning log I learned that in Unity they've adapted to C# for most of their projects so I went on [Free Code Camp](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) and found free tutorials to learn C#!
 
-3/8/26
+3/20/26
 * Use Sketchfab to improt sprites to Unity
+![alt text](image-7.png)
+
+3/21/26
 * Unity Shapes
+![alt text](image-8.png)
 * 3D collisions/Physics & 1st person mode for now
-* 
+
+
 
 
 
